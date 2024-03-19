@@ -18,6 +18,7 @@
     color: rgb(255, 0, 170);
 }
 .container textarea{
+    max-width: 100%;
     width: 600px;
     height: 250px;
     background-color: rgba(255, 255, 255, 0.215);
@@ -35,6 +36,7 @@ textarea::placeholder{
     color: white;
 }
 .row{
+    max-width: 100%;
     width: 600px;
     display: flex;
     align-items: center;
